@@ -1,0 +1,61 @@
+/*KatieNelson*/
+
+body {
+ margin-top: 4em;
+ margin-bottom: 4em;
+ font-family: sans-serif;
+ background-color: #D7DFDD;
+ color: #000000 
+ } 
+
+
+h1 {
+padding: .3em;
+text-align: center;
+letter-spacing: .25em;
+padding-bottom: .3em;
+border-bottom: #04665F 8px solid;
+margin-bottom: 2em;
+}
+
+
+p {
+ line-height: 1.25em; 
+ }
+
+img {
+border: #04665F 4px solid;
+padding: 15px;
+background-color: #5E584E;
+color: #FFFFFF
+}
+
+h2 {
+background-color: #FFFFFF;
+padding: .4em;
+margin-top: 2em;
+border-top: #D7DFDD 12px double;
+border-bottom: #D7DFDD 12px double;
+color: #04665F;
+}
+
+a {
+background-color: #D7DFDD;
+font-weight: bold;
+padding: 3px;
+}
+
+ul {
+margin-left: 5em;
+}
+
+il {
+list-style-type: square;
+padding-bottom: .3em
+}
+
+abbr {
+border-bottom: #000000 2px dotted;
+}
+
+

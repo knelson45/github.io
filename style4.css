@@ -1,0 +1,97 @@
+/*Katie Nelson*/
+
+
+#container {
+font-family: Trebuchet MS,Arial,sans-serif;
+line-height: 1.5em;
+font-size: .9em;
+margin: 0 auto;
+width: 760px;
+background-color: #FFF;
+color: #000;
+border: 5px solid #57779D;
+}
+
+#header {
+padding: 0;
+background-image: url(head.jpg);
+background-repeat: no-repeat;
+height: 100px;
+}
+
+#header h1 {
+padding: 40px 0 8px 100px;
+margin: 0;
+letter-spacing: 3px;
+} 
+
+#nav ul {
+text-align: center;
+padding: 5px 0 5px 0;
+margin: 0;
+background-color: #57779D;
+color: #FFFFFF;
+font-family: Ariel,Helvetica,sans-serif;
+}
+
+#nav li {
+display: inline;
+padding: 5px 0;
+border-right: 1px solid #FFFFFF;
+font-weight: bold;
+}
+
+#nav a {
+padding: 5px 10px;
+background-color: #57779D;
+color: #FFFFFF;
+text-decoration: none;
+}
+
+#nav #first {
+border-left: 1px solid #FFFFFF;
+}
+
+#content {
+padding: 1em;
+}
+
+#content p {
+padding: 0 2em;
+}
+
+#noshow {
+display: none;
+}
+
+#footer {
+font-size: .9em;
+border: 5px solid #57779D;
+}
+
+#footer p {
+text-align: center;
+}
+
+
+#nav #current {
+color: #FFCC33;
+background-color: #57779D;
+}
+
+html,body {
+padding: 0;
+margin: 0;
+}
+
+
+body {
+background-image: url(comptech.jpg)
+}
+
+
+h2 {
+margin: 1em 0 .5em 0;
+letter-spacing: 3px;
+}
+
